@@ -1,0 +1,6 @@
+**/build/
+**/.dart_tool/
+**/.idea/
+**/.vscode/
+**/ios/Pods/
+**/pubspec.lock
